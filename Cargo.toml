@@ -1,0 +1,18 @@
+[package]
+name = "cartouche"
+version = "0.0.0"
+authors = ["ilammy <me@ilammy.net>"]
+edition = "2018"
+publish = false
+
+[dependencies]
+bitflags = "1.2"
+cocoa = "0.24"
+objc = { version = "0.2", features = ["exception"]}
+# Once you've debugged exceptions:
+# objc = "0.2"
+
+[workspace]
+members = [
+    "crates/gemini",
+]

@@ -1,0 +1,8 @@
+# Cartouche
+
+> If I share this with you never speak a word
+> They would never understand if they ever heard
+> Gemini, Capricorn rising in the east
+> Dancing through the witchwood we began to sing
+
+Following the spirit of Gemini, Carthouche is a native Cocoa application written in Rust. That is, good luck figuring out how it works and how to extend it without using Xcode. I sincerely hope that it will still be possible to compile it in the future.
